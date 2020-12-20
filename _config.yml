@@ -23,8 +23,8 @@ email: willow.behar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Willow Behar, Computer Science Major, Tallents include photography, 3D modeling, game creation, 3D printing, soldering, arduino, python, c++, java, linux, computer repair, ethernet wiring, video editing, audio editing, and sewing
 
-baseurl: "willow.fyi" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "willow.fyi" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TechRunner2
 github_username:  TechRunner2
 
